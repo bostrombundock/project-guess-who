@@ -2,6 +2,8 @@
 
 Guess Who- game. It was really interesting, fun but mostly difficult to do this project. But I tried to follow all the steps that was given to us which was a great way to learn.
 
+https://frosty-galileo-d1cfb2.netlify.app/
+
 Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
 
 ## The problem
